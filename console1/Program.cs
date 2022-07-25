@@ -9,7 +9,6 @@ class second
       
       Console.Title="First Site";
       Console.ForegroundColor=ConsoleColor.Green;
-      Console.WindowHeight=30;
 
 
       Console.WriteLine("Hello, World!");
