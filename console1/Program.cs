@@ -5,28 +5,31 @@ class second
     public static  void Main ( String[] args)
     {
       first f1 = new first();
-      f1.firstfun1();  
-      
-      Console.Title="First Site";
-      Console.ForegroundColor=ConsoleColor.Green;
-
-
-      Console.WriteLine("Hello, World!");
-      
-      
-      // Type your username and press enter
-Console.WriteLine("Enter username:");
-
-// Create a string variable and get user input from the keyboard and store it in the variable
-string userName = Console.ReadLine();
-
-// Print the value of the variable (userName), which will display the input value
-Console.WriteLine("Username is: " + userName);
-
-      Console.WriteLine("Day 2 Learning with C#");
-      Console.ReadLine();
-    }
-
+      Console.WriteLine("Enter Your Choice:");
+      int d= Convert.ToInt32(Console.ReadLine());
+      switch(d)
+      {
+      case 1:
+     // code block
+      f1.firstfun1();
+     break;
+     case 2:
+    // code block
+    f1.inputs();
+    break;
+     case 3:
+     // code block
+      f1.conversions();
+     break;
+     case 4:
+    // code block
+    f1.conditions();
+    break;
+  default:
+    // code block
+    break;
+      }
+    }   
 
 
 }
