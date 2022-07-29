@@ -25,8 +25,16 @@ class second
     // code block
     f1.conditions();
     break;
+     case 5:
+    // code block
+    f1.looping();
+    break;
+  case 6:
+  f1.looks();
+  break;
   default:
     // code block
+    Console.WriteLine("OOPs! wrong input");
     break;
       }
     }   

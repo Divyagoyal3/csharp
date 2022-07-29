@@ -66,4 +66,41 @@ Console.ReadLine();
         }
         Console.ReadLine();
     }
+
+    public void looping()
+    {
+        Console.WriteLine("How many ccol numbers do you want :");
+
+        int count=Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 1; i <=count; i++)
+        {
+            double result=Math.Pow(2,i);
+            Console.WriteLine(result);
+        }
+        // Wait before closing
+        Console.ReadLine();
+    }
+     public void looks()
+     {
+         Random numberGen= new Random();
+
+         int roll=0;
+         int attempts =0;
+
+         Console.WriteLine("Press enter to roll the die.");
+
+         while(roll!=6)
+         {
+             Console.ReadKey();
+             roll=numberGen.Next(1,7);
+             Console.WriteLine("You rolled:" +roll);
+             attempts++;
+         }
+
+         Console.WriteLine("It Took yoy "+attempts + "attempts to roll six");
+         //wait before closing
+         Console.ReadLine();
+     }
+
 }
