@@ -29,9 +29,21 @@ class second
     // code block
     f1.looping();
     break;
-  case 6:
-  f1.looks();
-  break;
+    case 6:
+    f1.looks();
+    break;
+     case 7:
+    // code block
+    f1.arrays();
+    break;
+     case 8:
+    // code block
+    f1.learnarray();
+    break;
+     case 9:
+    // code block
+    f1.dynamicarray();
+    break;
   default:
     // code block
     Console.WriteLine("OOPs! wrong input");

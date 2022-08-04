@@ -7,7 +7,7 @@ class first
       Console.Title="Third Day";
       Console.ForegroundColor=ConsoleColor.DarkBlue;
       
-      Console.WriteLine("Day 3 Learning with C#");
+      Console.WriteLine("Day 5 Learning with C#");
        int a =10, b=20;
        int c=a+b;
        Console.WriteLine(c);
@@ -103,4 +103,48 @@ Console.ReadLine();
          Console.ReadLine();
      }
 
+     public void arrays()
+     {
+         int [] arrayname = new int[3];
+         arrayname[0]=1;
+         arrayname[1]=34;
+         arrayname[2]=41;
+
+         Console.WriteLine(arrayname[1]);     
+    }
+
+     public void learnarray()
+     {
+         string [] songs ={"Don't you Need Somebody", "Love is the Name","Selfish"};
+
+         for(int i= 0; i<=songs.Length; i++)
+         {
+             int rank= i+1;
+             Console.WriteLine(rank + "." + songs[i]);
+         }
+     }
+
+     public void dynamicarray()
+     {
+         string [] movies = new string[4];
+
+         Console.WriteLine("Type in Four Movies:");
+
+        for(int i =0 ; i< movies.Length;i++)
+        {
+         movies[i] = Console.ReadLine();
+        }
+
+        Console.WriteLine("\n Here  they are Alaphabetically ");
+
+        Array.Sort(movies);
+
+        for(int i =0 ; i< movies.Length;i++)
+        {
+            Console.WriteLine(movies[i]);
+        }
+         // Wait before closing
+         Console.ReadLine();
+         
+     }
 }
