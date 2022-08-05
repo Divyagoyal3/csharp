@@ -1,0 +1,27 @@
+
+using System;
+class HelloWorld {
+  static void Main() 
+  {
+   int result= multiply(3,7);
+   
+   Console.WriteLine("Result is :" + result);
+   
+   if(result %2 ==0)
+   {
+       Console.WriteLine("result is even :" + result);
+   }
+   else
+   {
+       Console.WriteLine("result is odd :" + result);
+   }
+  
+  }
+  
+  
+    static int  multiply(int num1, int num2)
+  {
+      int result=num1*num2;
+      return result;
+  }
+}
