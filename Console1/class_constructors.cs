@@ -1,0 +1,20 @@
+class Animal
+{
+    public static  int count =0;
+    public string name ;
+    public int age ;
+    //constructors
+    //overload
+    public Animal(string s_names, int s_age)
+    {
+        name=s_names;
+        age=s_age;
+        count++;
+    }
+    // class Methods
+      public void Print()
+     {
+         Console.WriteLine("Name:" +name);
+         Console.WriteLine("Age:" +age);
+     }
+}
