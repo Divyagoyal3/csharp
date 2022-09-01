@@ -1,0 +1,15 @@
+E:\Divya\pu work\sem3\c#\csharp\cs2\bin\Debug\net6.0\cs2.exe
+E:\Divya\pu work\sem3\c#\csharp\cs2\bin\Debug\net6.0\cs2.deps.json
+E:\Divya\pu work\sem3\c#\csharp\cs2\bin\Debug\net6.0\cs2.runtimeconfig.json
+E:\Divya\pu work\sem3\c#\csharp\cs2\bin\Debug\net6.0\cs2.dll
+E:\Divya\pu work\sem3\c#\csharp\cs2\bin\Debug\net6.0\cs2.pdb
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.csproj.AssemblyReference.cache
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.AssemblyInfoInputs.cache
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.AssemblyInfo.cs
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.csproj.CoreCompileInputs.cache
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.dll
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\refint\cs2.dll
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.pdb
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\cs2.genruntimeconfig.cache
+E:\Divya\pu work\sem3\c#\csharp\cs2\obj\Debug\net6.0\ref\cs2.dll

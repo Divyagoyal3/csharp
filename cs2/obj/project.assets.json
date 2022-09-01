@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\console1\\console1.csproj",
-      "projectName": "console1",
-      "projectPath": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\console1\\console1.csproj",
+      "projectUniqueName": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\cs2\\cs2.csproj",
+      "projectName": "cs2",
+      "projectPath": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\cs2\\cs2.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\console1\\obj\\",
+      "outputPath": "E:\\Divya\\pu work\\sem3\\c#\\csharp\\cs2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
