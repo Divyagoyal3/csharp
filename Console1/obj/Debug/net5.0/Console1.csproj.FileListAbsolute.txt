@@ -1,0 +1,16 @@
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.csproj.AssemblyReference.cache
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.AssemblyInfoInputs.cache
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.AssemblyInfo.cs
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.csproj.CoreCompileInputs.cache
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1.deps.json
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1.runtimeconfig.json
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1.runtimeconfig.dev.json
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1.dll
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/ref/Console1.dll
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/bin/Debug/net5.0/Console1.pdb
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.dll
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/ref/Console1.dll
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.pdb
+/home/dk/Documents/Code/Dotnet/Divya PU/csharp/Console1/obj/Debug/net5.0/Console1.genruntimeconfig.cache

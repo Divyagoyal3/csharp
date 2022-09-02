@@ -1,4 +1,5 @@
-class Animal
+namespace Console1{
+    class Animal
 {
     public static  int count =0;
     public string name ;
@@ -17,4 +18,5 @@ class Animal
          Console.WriteLine("Name:" +name);
          Console.WriteLine("Age:" +age);
      }
+}
 }

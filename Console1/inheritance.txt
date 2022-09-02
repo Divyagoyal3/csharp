@@ -1,0 +1,43 @@
+/* Inheritance*/
+
+
+using System;
+    class Student1
+    {
+        public string s_name1;
+        public int s_id;
+         
+        //method 
+        public void print()
+        {
+            Console.WriteLine("Name of First Student is:" +s_name1);
+            Console.WriteLine("Id of First Student is:" +s_id);
+        }
+    }    
+    class Student2:Student1
+    {
+        public string s_name2;
+        public int roll_no;
+        
+        //method
+        public void print1()
+        {
+            Console.WriteLine("Name of  Second Student is :" +s_name2);
+            Console.WriteLine("Roll no of Second student is :" +roll_no);
+            base.s_name1="Amit";
+        }
+        
+    }   
+    
+    class Mca :Student2
+    {
+        public int records;
+         
+         //method
+         public  void record_mca()
+         {
+             records=200;
+             Console.WriteLine(" Total numbers of Records in Mca Chandigarh is:"+records);
+         }
+    }
+
